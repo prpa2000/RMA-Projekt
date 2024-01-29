@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1054973272286",
+    "firebase_url": "https://rmaprojekt-db678-default-rtdb.firebaseio.com",
+    "project_id": "rmaprojekt-db678",
+    "storage_bucket": "rmaprojekt-db678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054973272286:android:1fc95c52d8e73c98a7224f",
+        "android_client_info": {
+          "package_name": "com.example.klubovi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_phwDjl6gq0ds1M9WNWKzcPbHg_47fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054973272286:android:011e0afabf2fb7dca7224f",
+        "android_client_info": {
+          "package_name": "com.example.rma_clubs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_phwDjl6gq0ds1M9WNWKzcPbHg_47fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
